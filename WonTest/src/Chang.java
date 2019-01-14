@@ -4,4 +4,5 @@ public class Chang {
 	int b = 3;
 	
 	int c = 10;
+	int d = 11;
 }
