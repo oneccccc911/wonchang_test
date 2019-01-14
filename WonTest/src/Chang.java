@@ -5,4 +5,6 @@ public class Chang {
 	
 	int c = 10;
 	int d = 11;
+	
+	int sum = a+b+c+d;
 }
